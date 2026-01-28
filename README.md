@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ivo Niethammer 👋
 
-<!--
-**ivoniet-ntu/ivoniet-ntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **Data Analysis** and **Natural Language Processing**, with a focus on building clean, documented code and professional technical reports.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Skills
+
+| Category | Skills / Libraries |
+| :--- | :--- |
+| **🐍 Python & Data** | Python, Pandas, spaCy, NLTK |
+| **📝 Technical Writing** | LaTeX, Overleaf |
+| **💻 Tools & Workflow** | Visual Studio Code, Git, GitHub |
+
+---
+
+### 🧪 What I'm Doing
+- 📊 Analyzing data patterns using **Pandas**.
+- 🤖 Processing text and language with **spaCy** and **NLTK**.
+- ✍️ Producing high-quality documentation and papers in **LaTeX**.
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/iniet/](https://www.linkedin.com/in/iniet/)
+- **Email:** [niethammer.ivo@gmail.com](mailto:niethammer.ivo@gmail.com)
