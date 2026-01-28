@@ -1,6 +1,6 @@
 # Hi, I'm Ivo Niethammer 👋
 
-I specialize in **Data Analysis** and **Natural Language Processing**, with a focus on building clean, documented code and professional technical reports.
+I specialize in **Data Analysis** and **Natural Language Processing**, with a focus on building clean, documented code and professional technical and research reports.
 
 ---
 
