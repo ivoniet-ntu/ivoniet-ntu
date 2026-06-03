@@ -11,7 +11,7 @@ I also design open-source tools for German language learners. Check the repos an
 | :--- | :--- |
 | **🐍 Python & Data** | Python, Pandas, spaCy, NLTK |
 | **🌐 Web & Deployment** | HTML, CSS, JavaScript, Node.js, GitHub Pages, Netlify |
-| **🗄️ Database** | Supabase |
+| **🗄️ Database** | Supabase, PostgreSQL, SQLite |
 | **📝 Technical Writing** | LaTeX, Overleaf |
 | **🔬 Corpus & Linguistics** | AntConc, corpus annotation, IPA transcription |
 | **💻 Tools & Workflow** | Visual Studio Code, Git, GitHub |
