@@ -24,3 +24,4 @@ I specialize in **Data Analysis** and **Natural Language Processing**, with a fo
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/iniet/](https://www.linkedin.com/in/iniet/)
 - **Email:** [niethammer.ivo@gmail.com](mailto:niethammer.ivo@gmail.com)
+- **iTalki:** [Book a German lesson](https://www.italki.com/en/teacher/7208646)
